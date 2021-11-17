@@ -1,6 +1,6 @@
 Como fazer um sanduíche
 
-Ingredientes: Pão, faca, maionese, alface, tomate, presunto e queijo.
+Ingredientes: Pão, faca, maionese, alface, tomate, queijo, presunto, oregano, prato.
 
 Passos:
 
