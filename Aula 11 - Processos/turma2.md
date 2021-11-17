@@ -10,3 +10,4 @@ Passos:
 4. Colocar uma fatia de tomate  
 5. Colocar uma fatia de queijo 
 6. Colocar uma fatia de presunto 
+7. Colocar oregano
