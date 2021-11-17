@@ -1,4 +1,5 @@
-# Como trocar a lampada Bolinha Clara
+# Como trocar a lampada Bolinha Clara 
+![lampada](https://pt.seaicons.com/wp-content/uploads/2015/06/light-bulb-icon.png)
 
 1. Identificar a altura onde a lampada se encontra
 2. Pegar uma escada
