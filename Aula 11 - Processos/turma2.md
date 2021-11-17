@@ -11,3 +11,7 @@ Passos:
 5. Colocar uma fatia de queijo 
 6. Colocar uma fatia de presunto 
 7. Colocar oregano
+8. Pegar a faca
+9. Partir o sanduíche ao meio
+10. Colocar em um prato
+11. Servir o Sanduíche
