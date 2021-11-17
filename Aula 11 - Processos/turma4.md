@@ -11,3 +11,4 @@
 9. Testar a lampada 
 10. Descartar adequadamente a lampada velha
 11. Guardar a escada
+12. Fim
