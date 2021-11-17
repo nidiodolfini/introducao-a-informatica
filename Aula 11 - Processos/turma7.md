@@ -1,0 +1,1 @@
+passo 1: pegue uma escada para estar a altura da lampada.
