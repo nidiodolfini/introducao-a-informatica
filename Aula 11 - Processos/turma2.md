@@ -1,5 +1,4 @@
-<<<<<<< Updated upstream
-Para montar um sanduíche
+Como fazer um sanduíche
 
 Ingredientes: Pão, faca, maionese, alface, tomate, presunto e queijo.
 
@@ -11,7 +10,3 @@ Passos:
 4. Colocar uma fatia de tomate  
 5. Colocar uma fatia de queijo 
 6. Colocar uma fatia de presunto 
-=======
-Como fazer um sanduíche
-
->>>>>>> Stashed changes
