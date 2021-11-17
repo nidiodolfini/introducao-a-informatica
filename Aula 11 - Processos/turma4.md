@@ -12,3 +12,4 @@
 10. Descartar adequadamente a lampada velha
 11. Guardar a escada
 12. Fim
+13.Fim Finalmente
